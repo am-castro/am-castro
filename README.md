@@ -43,15 +43,13 @@
 
 <p align="center">
 - Thanks for visiting.
-
-- Enjoy it!! o/
+</p>
 
 ----------------------------------------------------------------------------------
-
+<p align="center">
 Ruan Queiroz
 
 https://github.com/Ruan-Castro
-
 </p>
 <!--
 **Ruan-Castro/Ruan-Castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
