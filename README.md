@@ -3,6 +3,9 @@
  
 
 ## I'm Ruan Castro!
+[![GitHub motirck](https://img.shields.io/github/followers/Ruan-Castro?label=follow&style=social)](https://github.com/motirck)
+<sub>ㅤ</sub>
+![](https://komarev.com/ghpvc/?username=Ruan-Castro&style=flat-square&color=13b982&label=Profile%20views)
 
 ### Languages ​​most used by me
 ![HTML5 Badge](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +43,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Castro&theme=monokai" alt="Ruan-Castro" height="158"/>
 
 <!-- Trophies -->
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motirck&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ruan-Castro&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
 
 
 ### Interests
