@@ -3,7 +3,7 @@
  
 
 ## I'm Ruan Castro!
-[![GitHub motirck](https://img.shields.io/github/followers/Ruan-Castro?label=follow&style=social)](https://github.com/motirck)
+[![GitHub Ruan-Castro](https://img.shields.io/github/followers/Ruan-Castro?label=follow&style=social)](https://github.com/motirck)
 <sub>ㅤ</sub>
 ![](https://komarev.com/ghpvc/?username=Ruan-Castro&style=flat-square&color=13b982&label=Profile%20views)
 
