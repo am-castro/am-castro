@@ -1,6 +1,4 @@
-<p align="center">
 #Welcome!
-</p>
  
 
 ## I'm Ruan Castro!
