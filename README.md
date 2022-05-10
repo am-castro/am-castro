@@ -8,7 +8,8 @@
 ![](https://komarev.com/ghpvc/?username=Ruan-Castro&style=flat-square&color=13b982&label=Profile%20views)
 
 ### Languages ​​most used by me
-![HTML5 Badge](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Angular_Badge](https://img.shields.io/badge/Angular13-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -16,13 +17,11 @@
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-:computer: I'm Back-End Developer!
+:computer: I'm Full-stack developer!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently studying Computer Science.
-
-:outbox_tray: 2021 Goals: find a new job in programming.
 
 ## About me
 
