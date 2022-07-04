@@ -22,11 +22,11 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-:computer: I'm Full-stack developer!
+:computer: Full-stack developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: from Brazil.
 
-:books: I’m currently studying Computer Science.
+:books: currently studying Computer Science.
 
 ## About me
 
