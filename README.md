@@ -12,9 +12,10 @@
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Languages ​​most used by me
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SCSS Badge](https://img.shields.io/badge/SCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -22,11 +23,11 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-:computer: Full-stack developer!
-
-:house_with_garden: from Brazil.
-
-:books: currently studying Computer Science.
+- :computer: Full-stack developer!
+- :house_with_garden: from Brazil.
+- :books: currently studying Computer Science.
+- 🔭 I’m currently working on F13 Tecnologia
+- 🌱 I’m currently learning Java
 
 ## About me
 
@@ -41,10 +42,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Castro&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Castro&layout=compact&langs_count=16&theme=monokai"/>
 </div>
-
-<!-- Vertical Spacer -->
-<p></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Castro&theme=monokai" alt="Ruan-Castro" height="158"/>
 
 <!-- Trophies -->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ruan-Castro&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
@@ -63,19 +60,5 @@
 
 ----------------------------------------------------------------------------------
 <p align="center">
-Ruan Queiroz
+Ruan Castro
 </p>
-<!--
-**Ruan-Castro/Ruan-Castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
