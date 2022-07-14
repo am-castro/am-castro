@@ -10,6 +10,8 @@
 ![Angular_Badge](https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
 ![Chart.js Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Jasmine Badge](https://img.shields.io/badge/JASMINE-8b4982?style=for-the-badge&logo=jasmine&logoColor=white)
+
 
 ### Languages ​​most used by me
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -23,11 +25,11 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-- :computer: Full-stack developer!
+- :computer: Front-end developer!
 - :house_with_garden: from Brazil.
 - :books: currently studying Computer Science.
 - 🔭 I’m currently working on F13 Tecnologia
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Vue
 
 ## About me
 
