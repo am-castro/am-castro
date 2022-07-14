@@ -2,9 +2,7 @@
  
 
 ## I'm Ruan Castro!
-[![GitHub Ruan-Castro](https://img.shields.io/github/followers/Ruan-Castro?label=follow&style=social)](https://github.com/motirck)
-<sub>ㅤ</sub>
-![](https://komarev.com/ghpvc/?username=Ruan-Castro&style=flat-square&color=13b982&label=Profile%20views)
+[![GitHub Ruan-Castro](https://img.shields.io/github/followers/Ruan-Castro?label=follow&style=social)](https://github.com/ruan-castro)
 
 ### Frameworks ​​most used by me
 ![Angular_Badge](https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
