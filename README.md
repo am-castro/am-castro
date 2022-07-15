@@ -20,7 +20,7 @@
 
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Castro&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Castro&layout=compact&langs_count=16&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Castro&layout=compact&langs_count=16&count_private=true"/>
 </div>
 
 #### Technologyes most used by me
