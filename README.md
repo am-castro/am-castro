@@ -2,8 +2,13 @@
  
 
 ## I'm Ruan Castro!
-[![GitHub Ruan-Castro](https://img.shields.io/github/followers/Ruan-Castro?label=follow&style=social)](https://github.com/ruan-castro)
-<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Castro&layout=compact&langs_count=16&theme=monokai"/>
+
+- :computer: Front-end developer!
+- :house_with_garden: From Brazil.
+- :books: Currently studying Computer Science.
+- 🔭 I’m currently working on F13 Tecnologia
+- 🌱 I’m currently learning Java, Vue and Flutter
+- 
 ### Frameworks ​​most used by me
 ![Angular_Badge](https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
 ![Chart.js Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
@@ -24,11 +29,6 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer Badge](https://img.shields.io/badge/SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-- :computer: Front-end developer!
-- :house_with_garden: From Brazil.
-- :books: Currently studying Computer Science.
-- 🔭 I’m currently working on F13 Tecnologia
-- 🌱 I’m currently learning Java, Vue
 
 ## About me
 
@@ -40,8 +40,8 @@
 <p></p>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Castro&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Castro&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Castro&layout=compact&langs_count=16&count_private=true"/>
 </div>
 
 <!-- Trophies -->
