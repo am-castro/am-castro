@@ -3,7 +3,7 @@
 
 ## I'm Ruan Castro!
 [![GitHub Ruan-Castro](https://img.shields.io/github/followers/Ruan-Castro?label=follow&style=social)](https://github.com/ruan-castro)
-
+<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Castro&layout=compact&langs_count=16&theme=monokai"/>
 ### Frameworks ​​most used by me
 ![Angular_Badge](https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
 ![Chart.js Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
@@ -41,11 +41,11 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Castro&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Castro&layout=compact&langs_count=16&theme=monokai"/>
+
 </div>
 
 <!-- Trophies -->
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ruan-Castro&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ruan-Castro&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="Ruan Castro" /></a> </p>-->
 
 
 ### Interests
