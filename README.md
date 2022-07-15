@@ -17,16 +17,16 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS Badge](https://img.shields.io/badge/SCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript Badge](https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 - :computer: Front-end developer!
-- :house_with_garden: from Brazil.
-- :books: currently studying Computer Science.
+- :house_with_garden: From Brazil.
+- :books: Currently studying Computer Science.
 - 🔭 I’m currently working on F13 Tecnologia
 - 🌱 I’m currently learning Java, Vue
 
