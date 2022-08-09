@@ -7,7 +7,7 @@
 - :house_with_garden: From Brazil.
 - :books: Currently studying Computer Science.
 - 🔭 I’m currently working on F13 Tecnologia
-- 🌱 I’m currently learning Java, Vue and Flutter
+- 🌱 I’m currently learning Java, Vue and ReactNative
 
 ## About me
 
