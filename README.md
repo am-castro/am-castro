@@ -11,7 +11,7 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/zoe-daddy/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/am-castro/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/antoniomarcosc/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_NSTAGRAM)](https://www.instagram.com/marcos.angular/)
 
@@ -19,8 +19,8 @@
 <p></p>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoe-daddy&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoe-daddy&layout=compact&langs_count=16&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=am-castro&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-castro&layout=compact&langs_count=16&count_private=true"/>
 </div>
 
 #### Technologyes most used by me
