@@ -5,9 +5,9 @@
 
 - :computer: Front-end developer!
 - :house_with_garden: From Brazil.
-- :books: Currently studying Computer Science.
-- 🔭 I’m currently working on F13 Tecnologia
-- 🌱 I’m currently learning Java, Vue and ReactNative
+- :books: Studying Computer Science.
+- 🔭 I’m working on F13 Tecnologia
+- 🌱 I’m learning Java and Unit Tests (Jasmine)
 
 ## About me
 
