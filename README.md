@@ -27,12 +27,11 @@
 
 #### Technologyes most used by me
 ![Angular_Badge](https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/BOOTSTRAP-8584fa?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jasmine Badge](https://img.shields.io/badge/JASMINE-8b4982?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/SpringBoot-55FF33?style=for-the-badge&logo=spring&logoColor=white)
 ![Chart.js Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
 
 #### Languages most used by me
 ![Typescript Badge](https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
