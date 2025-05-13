@@ -24,7 +24,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-castro&layout=compact&langs_count=16&count_private=true"/>
 </div>
 
-#### Technologyes most used by me
+#### Technologyes
 ![Angular_Badge](https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/BOOTSTRAP-8584fa?style=for-the-badge&logo=bootstrap&logoColor=white)
