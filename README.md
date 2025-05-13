@@ -3,11 +3,11 @@
 
 ## I'm Antonio Marcos!
 
-- :computer: Full stack developer!
+- :computer: Sênior developer!
 - :house_with_garden: From Brazil.
-- :books: Studying Computer Science.
+- :books: Studying Computer Science at Universidade Estadual do Ceará.
 - 🔭 I’m working on F13 Tecnologia
-- 🌱 I’m learning Java and Unit Tests (Jasmine)
+- 🌱 I’m learning about AI
 
 [My website](https://am-castro.github.io)
 
@@ -15,7 +15,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/am-castro/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/antoniomarcosc/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_NSTAGRAM)](https://www.instagram.com/marcos.angular/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_NSTAGRAM)](https://www.instagram.com/marcos.angular/) -->
 
 <!-- Vertical Spacer -->
 <p></p>
