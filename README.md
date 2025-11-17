@@ -7,7 +7,7 @@
 - :house_with_garden: From Brazil.
 - :books: Studying Computer Science at Universidade Estadual do Ceará.
 - 🔭 I’m working on F13 Tecnologia
-- 🌱 I’m learning about AI
+- 🌱 I’m learning every technology news
 
 [My website](https://am-castro.github.io)
 
